@@ -125,7 +125,7 @@ button {
     color: rgb(202, 89, 89);
 }
 
-.hidden {
+.hidden1 {
     display: none;
 }
 
@@ -210,7 +210,7 @@ button {
         width: 9rem;
     }
 
-    .hidden,
+    .hidden,.hidden1
     span {
         display: inline;
     }
